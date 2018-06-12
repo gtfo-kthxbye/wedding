@@ -808,11 +808,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-contact-info ul li.phone:before {
   font-size: 23px;
-  content: "\e9f4";
+  content: "\e942";
 }
 .fh5co-contact-info ul li.email:before {
   font-size: 23px;
-  content: "\e9da";
+  content: "\e945";
 }
 .fh5co-contact-info ul li.url:before {
   font-size: 23px;
