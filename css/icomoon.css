@@ -5,7 +5,7 @@
     url('../fonts/icomoon/icomoon.ttf?6iuir') format('truetype'),
     url('../fonts/icomoon/icomoon.woff?6iuir') format('woff'),
     url('../fonts/icomoon/icomoon.svg?6iuir#icomoon') format('svg'); */
-    src: url('../fonts/icomoon/icomoon.ttf?6iuir') format('truetype');    
+    src: url('../fonts/icomoon/icomoon.ttf') format('truetype');    
   font-weight: normal;
   font-style: normal;
 }
