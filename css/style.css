@@ -403,11 +403,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-counter .event-wrap,
 #fh5co-event .event-wrap {
   border: 2px solid rgba(255, 255, 255, 0.5);
-<<<<<<< HEAD
   background: rgba(0, 0, 0, 0.5);
-=======
-  background: rgba(0, 0, 0, 0.4);
->>>>>>> b58f6193858adad427c72395666b84d5e3153499
   padding: 30px;
   width: 100%;
   float: left;
