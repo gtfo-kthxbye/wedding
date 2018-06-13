@@ -940,8 +940,8 @@ form label {
 .simply-countdown > .simply-section {
   /* coutndown blocks */
   display: inline-block;
-  width: 100px;
-  height: 100px;
+  width: 105px;
+  height: 105px;
   background: rgba(241, 78, 149, 0.8);
   margin: 0 4px;
   -webkit-border-radius: 50%;
@@ -1630,7 +1630,7 @@ form label {
   top: 10px;
   z-index: 21;
   padding: 6px 0 0 0;
-  display: block;
+  display: none;
   margin: 0 auto;
   display: none;
   height: 44px;
@@ -1640,7 +1640,7 @@ form label {
 }
 @media screen and (max-width: 768px) {
   .fh5co-nav-toggle {
-    display: block;
+    display: none;
   }
 }
 
