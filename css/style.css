@@ -420,7 +420,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-counter .event-wrap h3,
 #fh5co-event .event-wrap h3 {
-  font-size: 4em;
+  font-size: 3.5em;
   color: #fff;
   border-bottom: 1px solid rgba(255, 255, 255, 0.5);
   display: block;
@@ -1840,10 +1840,17 @@ form label {
   opacity: 0;
 }
 
-/*# sourceMappingURL=style.css.map */
-
 .pink-pulse {
   animation: pulse 1s ease infinite;
   color: #F14E95;
   display: inline-block;
 }
+
+.parax {
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+  width: 100%;  
+  padding: 3em !important;
+}
+/*# sourceMappingURL=style.css.map */

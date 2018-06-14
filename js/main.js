@@ -210,6 +210,10 @@
 
 	// Parallax
 	var parallax = function() {
+		$.stellar({
+			horizontalScrolling: false,
+			verticalOffset: 0
+		  });		
 		$(window).stellar();
 	};
 
